@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hooks-App/static/css/main.b34c7663.chunk.css",
+    "main.js": "/Hooks-App/static/js/main.45fb9ad2.chunk.js",
+    "main.js.map": "/Hooks-App/static/js/main.45fb9ad2.chunk.js.map",
+    "runtime~main.js": "/Hooks-App/static/js/runtime~main.60c5bf79.js",
+    "runtime~main.js.map": "/Hooks-App/static/js/runtime~main.60c5bf79.js.map",
+    "static/js/2.5844e9f7.chunk.js": "/Hooks-App/static/js/2.5844e9f7.chunk.js",
+    "static/js/2.5844e9f7.chunk.js.map": "/Hooks-App/static/js/2.5844e9f7.chunk.js.map",
+    "index.html": "/Hooks-App/index.html",
+    "precache-manifest.7394059a42a85470993c06e2a2b99768.js": "/Hooks-App/precache-manifest.7394059a42a85470993c06e2a2b99768.js",
+    "service-worker.js": "/Hooks-App/service-worker.js",
+    "static/css/main.b34c7663.chunk.css.map": "/Hooks-App/static/css/main.b34c7663.chunk.css.map"
+  }
+}
